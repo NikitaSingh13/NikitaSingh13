@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitasingh13&label=Profile%20views&color=0e75b6&style=flat" alt="nikitasingh13" /> </p>
 
-- 🌱 I’m currently learning **React Native,Kotlin**
-
-- 👨‍💻 All of my projects are available at [https://NikitaSingh13.github.io/portfolio/](https://NikitaSingh13.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://NikitaSingh13.github.io/portfolio/](https://new-portfolio-ashy-alpha.vercel.app/)
 
 - 💬 Ask me about **Java and Problem Solving**
 
