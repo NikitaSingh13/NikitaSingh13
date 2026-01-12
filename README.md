@@ -1,106 +1,99 @@
-<h1 align="center">Hi 👋, I'm Nikita Kumari</h1>
-<h3 align="center">Backend Developer | Django | Python | DSA (Java)</h3>
+## Nikita Kumari | Backend Developer
 
-<p align="center">
-Building reliable backend systems, REST APIs, and data-driven applications.
-</p>
-
----
-
-### 👩‍💻 About Me
-- Backend-focused **Software Developer** with hands-on experience in **Django, Python, and SQL**
-- Strong foundation in **Data Structures & Algorithms (Java)** with consistent problem solving
-- Experience building **scalable REST APIs**, backend business logic, and analytics pipelines
-- Comfortable with **Docker, CI/CD, and production deployment**
+Software Developer focused on backend systems, REST APIs, and data-driven applications.  
+Experience with Django, Python, SQL, Docker, and CI/CD. Strong DSA foundation in Java.
 
 📍 India  
-📫 **Email:** nikitasinghak257@gmail.com  
+📫 nikitasinghak257@gmail.com  
+🔗 Portfolio: https://new-portfolio-ashy-alpha.vercel.app/
 
 ---
 
-### 🧠 Technical Skills
-**Languages**
-- Python, Java, SQL  
+### Overview
 
-**Backend & Frameworks**
-- Django, Flask
-- RESTful APIs
-
-**Data & Analytics**
-- Pandas
-- Automated EDA
-- Rule-based analytics
-
-**Databases**
-- MySQL
-- PostgreSQL
-
-**DevOps & Tools**
-- Docker
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- Postman
-- Render
-
-**Core CS**
-- Data Structures & Algorithms
-- OOP
-- DBMS
-- System Design (Basics)
+| Field | Details |
+|-----|--------|
+| Primary Stack | Django, Python |
+| Backend | REST APIs, Business Logic |
+| Databases | MySQL, PostgreSQL |
+| DevOps | Docker, GitHub Actions |
+| Core CS | DSA (Java), OOP, DBMS |
+| Status | Final Year B.Tech (CSE) |
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
-#### 🔹 InterviewPulse – Interview Recovery & Confidence Tracker (2025)
-**Tech:** Django, Python, MySQL, REST APIs  
-- Designed normalized relational models for interviews, feedback, daily logs, and confidence scores  
-- Built secure REST APIs to track preparation progress and interview outcomes  
-- Implemented backend analytics to identify consistency and improvement patterns  
-
----
-
-#### 🔹 DataSaaS – Automated Analytics Platform (2025)
-**Tech:** Django, Pandas  
-- Developed backend system for parsing CSV/Excel uploads  
-- Built logic engine to auto-detect dataset type (classification vs regression)  
-- Generated automated EDA and real-time analytical insights via REST APIs  
+| # | Project | Description | Tech |
+|--|--------|-------------|------|
+| 1 | InterviewPulse (2025) | Backend system to track interviews, preparation progress, confidence trends | Django, Python, MySQL |
+| 2 | DataSaaS (2025) | Automated EDA & dataset-driven analytics pipeline | Django, Pandas |
 
 ---
 
-### 🧑‍💻 Experience
+### Project Details
 
-**Open Source Contributor — GirlScript Summer of Code**  
-*July 2025 – Sep 2025*  
-- Added new ML models and improved training workflows  
-- Collaborated via PRs and discussions with maintainers  
-- Improved integration and model reliability  
+#### InterviewPulse
+| Aspect | Implementation |
+|-----|---------------|
+| Architecture | Django REST backend |
+| Data Models | Interviews, logs, feedback, confidence |
+| APIs | Secure CRUD + analytics endpoints |
+| Logic | Consistency & improvement tracking |
 
----
-
-### 🏆 Achievements
-- Solved **400+ DSA problems** on LeetCode & GeeksforGeeks  
-- **2nd Rank** — 24-hour College Code-a-thon (2024)  
-- Completed **Data Science Bootcamp (Udemy)**  
-
----
-
-### 🔗 Coding Profiles
-<p align="left">
-<a href="https://www.linkedin.com/in/nikita-kumari-22b355238/" target="_blank">LinkedIn</a> •
-<a href="https://github.com/NikitaSingh13" target="_blank">GitHub</a> •
-<a href="https://leetcode.com/nikita_131203" target="_blank">LeetCode</a> •
-<a href="https://codeforces.com/profile/nikita_131203" target="_blank">Codeforces</a> •
-<a href="https://www.geeksforgeeks.org/user/nikitakumaribqx8e/" target="_blank">GeeksforGeeks</a>
-</p>
+#### DataSaaS
+| Aspect | Implementation |
+|-----|---------------|
+| Input | CSV / Excel ingestion |
+| Processing | Dataset property detection |
+| Logic | Auto classification vs regression |
+| Output | Automated EDA insights |
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nikitasingh13&show_icons=true&theme=dark" />
-</p>
+### Experience
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitasingh13&theme=dark" />
-</p>
+| Period | Role | Organization |
+|-----|----|-------------|
+| Jul 2025 – Sep 2025 | Open Source Contributor | GirlScript Summer of Code |
+
+---
+
+### Achievements
+
+| Metric | Value |
+|-----|------|
+| DSA Problems Solved | 400+ |
+| Competitive Rank | 2nd – College Code-a-thon |
+| Certifications | Data Science Bootcamp (Udemy) |
+
+---
+
+### Tech Stack
+
+| Category | Tools |
+|------|------|
+| Languages | Python, Java, SQL |
+| Backend | Django, Flask |
+| Databases | MySQL, PostgreSQL |
+| DevOps | Docker, GitHub Actions |
+| Tools | Git, Postman, Render |
+
+---
+
+### Profiles
+
+| Platform | Link |
+|-------|------|
+| GitHub | https://github.com/NikitaSingh13 |
+| LinkedIn | https://www.linkedin.com/in/nikita-kumari-22b355238/ |
+| LeetCode | https://leetcode.com/nikita_131203 |
+| Codeforces | https://codeforces.com/profile/nikita_131203 |
+| GeeksforGeeks | https://www.geeksforgeeks.org/user/nikitakumaribqx8e/ |
+
+---
+
+### GitHub Activity
+
+![Stats](https://github-readme-stats.vercel.app/api?username=nikitasingh13&show_icons=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikitasingh13&theme=dark)
