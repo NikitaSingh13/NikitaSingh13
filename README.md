@@ -1,403 +1,572 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:38BDF8&height=230&section=header&text=Nikita%20Kumari&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:172554,100:38BDF8&height=240&section=header&text=Nikita%20Kumari&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=JAVA%20BACKEND%20DEVELOPER%20%20%E2%80%A2%20%20PROBLEM%20SOLVER%20%20%E2%80%A2%20%20BUILDER&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Java+%2B+Spring+Boot+%7C+my+comfort+zone;Turning+problems+into+working+software;Backend+first.+Frontend+when+needed.;Build+%E2%86%92+Debug+%E2%86%92+Learn+%E2%86%92+Ship;AI-assisted+development+%7C+modern+engineering+workflow" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Java+%2B+Spring+Boot+is+my+comfort+zone.;I+like+turning+problems+into+working+software.;Backend+first.+Frontend+when+needed.;Build+%E2%86%92+Debug+%E2%86%92+Learn+%E2%86%92+Ship.;AI-assisted+development+%E2%80%A2+modern+coding+workflow." />
 
 <br><br>
 
 <a href="https://new-portfolio-ashy-alpha.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit-111827?style=for-the-badge"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/nikita-kumari-22b355238/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-Connect-0A66C2?style=for-the-badge"/>
 </a>
 &nbsp;
 <a href="mailto:nikitasinghak257@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%AB%20Email-Say%20Hi-EA4335?style=for-the-badge"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=NikitaSingh13&style=flat-square&color=38BDF8&label=PROFILE+VIEWS"/>
 
 </div>
 
----
+<br>
 
-<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ## 👩🏻‍💻 `whoami`
 
-</div>
+I'm **Nikita**, a Java Backend Developer focused on building applications with **Java, Spring Boot, REST APIs and relational databases**.
 
-I'm **Nikita**, a **Java Backend Developer** who enjoys solving problems and turning them into actual working applications.
+I enjoy the part of software development where things go from:
 
-My main playground is:
+**problem → logic → API → database → integration → production**
 
-`Java → Spring Boot → REST APIs → Databases`
+I also work with **Angular** when the backend needs a frontend and have hands-on experience with **AWS deployment**.
 
-I like working on the parts users don't directly see:
+Currently obsessed with getting better at:
 
-```text
-API
- ↓
-Business Logic
- ↓
-Validation
- ↓
-Database
- ↓
-Integration
- ↓
-Deployment
-```
+- 🧠 Problem solving
+- ☕ Java & Spring Boot
+- 🏗️ Backend architecture
+- ☁️ AWS
+- 🌐 API integration
+- 🤖 AI-assisted development
 
-I also work with **Angular** when my backend needs a frontend and have hands-on experience deploying applications on **AWS**.
+</td>
 
-And yes, I use AI while coding.
-
-Not to blindly generate an application and call it mine, but to **learn faster, explore solutions, debug, refactor and work with modern development workflows.**
-
----
+<td width="45%" valign="top">
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330"/>
 
-### `backend.exe is running...`
+### `backend.exe`
+
+**STATUS:** 🟢 ONLINE
+
+```text
+Java        ██████████
+Spring      █████████
+DSA         █████████
+AWS         ███████
+Angular     ██████
+AI Tools    ████████
+```
 
 </div>
 
----
+</td>
+</tr>
+</table>
 
-# 💼 Experience
+<br>
 
-## 👩🏻‍💻 Technology Intern → Java Backend Developer
+<div align="center">
+
+### ⚡ THE SHORT VERSION
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ☕
+**JAVA**
+
+Spring Boot  
+REST APIs  
+JPA / Hibernate
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+**PROBLEM SOLVER**
+
+**400+**  
+DSA Problems
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+**CLOUD**
+
+AWS  
+Deployment  
+Integration
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**MODERN DEV**
+
+AI-assisted  
+Development  
+Workflow
+
+</td>
+</tr>
+</table>
+
+<br>
+
+# 💼 What I Do
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### 🏢 Technology Intern → Java Backend Developer
 
 **TechHaus Software Services Pvt. Ltd. · Gurugram**  
 `Apr 2026 – Present`
 
+I'm currently working on backend development for an **enterprise banking application**.
+
+#### ☕ Backend
+
+- Built **8+ REST APIs** for account and transaction management.
+- Implemented **4 core banking workflows** including account creation, balance management, fund transfers and transaction processing.
+- Used `@Transactional`, validation and database locking for data consistency.
+- Worked with **DTOs, JPA Specifications and Repository Pattern**.
+- Followed layered architecture and centralized exception handling.
+- Developed **15+ JUnit test cases** for service and repository components.
+
+#### 🔌 Integration
+
+Integrated an external **Genesis API** into an internal dashboard and worked across:
+
+`Backend → API Integration → Angular UI`
+
+#### ☁️ Deployment
+
+Worked with **AWS Elastic Beanstalk** to deploy the application.
+
+</td>
+
+<td width="35%" valign="top">
+
 <div align="center">
 
-### `building things that have to actually work`
+### 🧰 DAILY LOADOUT
 
-</div>
+<br>
 
-### ☕ Backend Development
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,angular,aws,git,github,maven,docker" />
 
-Built and tested backend components for an **enterprise banking application** using:
-
-`Java 17` · `Spring Boot` · `Spring Data JPA` · `Hibernate` · `MySQL`
-
-**What I've worked on:**
-
-- Designed and developed **8+ REST APIs** for account and transaction management.
-- Implemented **4 core banking workflows** including account creation, balance management, fund transfers and transaction processing.
-- Used `@Transactional`, validation and database locking to maintain data consistency.
-- Worked with **DTOs, JPA Specifications and Repository Pattern**.
-- Followed layered architecture for organizing backend modules.
-- Implemented centralized exception handling.
-- Developed and executed **15+ JUnit test cases** for service and repository components.
-
-### 🔌 External API Integration
-
-Worked on integrating an external **Genesis API** into an internal dashboard.
+<br><br>
 
 ```text
-External API
-     ↓
-Backend Integration
-     ↓
-Business Logic
-     ↓
-Internal Dashboard
-     ↓
-Angular UI
+Java 17
+Spring Boot
+JPA / Hibernate
+MySQL
+Angular
+AWS
+JUnit
+Git
+Maven
 ```
 
-This involved working across both backend and frontend boundaries rather than treating them as completely separate worlds.
+<br>
 
-### ☁️ Deployment
-
-Also worked with **AWS Elastic Beanstalk** to deploy the application.
-
-So the workflow wasn't just:
-
-`write code → done`
-
-It was:
-
-`build → test → integrate → deploy → debug`
-
----
-
-# 🧩 Problem Solving
-
-<div align="center">
-
-### I don't just code. I like figuring things out.
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220"/>
 
 </div>
 
-One of the biggest parts of my development journey has been **problem solving**.
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### `build → test → integrate → deploy → debug → repeat`
+
+</div>
+
+<br>
+
+# 🧠 Problem Solving is a Big Part of Me
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💻 DSA
 
-**400+ Data Structures & Algorithms problems solved**
+I've solved **400+ Data Structures & Algorithms problems**.
 
-`Arrays` · `Strings` · `Recursion` · `Stacks` · `Queues`  
-`Linked Lists` · `Trees` · `Graphs` · `Hashing`  
-`Sorting` · `Searching` · `Dynamic Programming`
+<br>
 
-But problem solving isn't only about LeetCode.
+`Arrays`  
+`Strings`  
+`Recursion`  
+`Stacks & Queues`  
+`Linked Lists`  
+`Trees & Graphs`  
+`Hashing`  
+`Sorting & Searching`  
+`Dynamic Programming`
 
-It's also:
+<br>
+
+<a href="https://leetcode.com/nikita_131203">
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐛 Real-world problem solving
+
+Sometimes it's not:
+
+> "Which algorithm should I use?"
+
+It's:
 
 ```text
-"Why is this API returning 400?"
-             ↓
-"What exactly am I sending?"
-             ↓
-"Okay... there's a mismatch."
-             ↓
-"Fixed."
-             ↓
-"Why is the database failing now?"
-             ↓
-"...round two."
+Why is the API 400?
+       ↓
+What am I actually sending?
+       ↓
+Backend mismatch?
+       ↓
+Database issue?
+       ↓
+Found it.
+       ↓
+...wait, why is the next
+thing broken?
 ```
 
-That's honestly one of my favourite parts of development.
+### `debugging = problem solving with plot twists`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+# 🤖 How I Code in the AI Era
 
 <div align="center">
 
-### `debugging is just problem solving with extra steps`
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="280"/>
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# 🛠️ My Toolkit
+### I use AI as a tool.
 
-## ☕ Backend
+Not as a replacement for understanding.
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven"/>
-</p>
+I use AI assistance to:
 
-`Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `REST APIs`
+- explore unfamiliar concepts
+- get a starting point
+- understand APIs
+- debug issues
+- refactor code
+- compare approaches
+- reduce repetitive work
+- learn new frameworks faster
 
-## 🗄️ Databases
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-</p>
+<td width="50%" valign="top">
 
-`MySQL` · `PostgreSQL` · `MongoDB`
-
-## 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css"/>
-</p>
-
-`Angular` · `React` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
-
-## ☁️ Cloud & Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions"/>
-</p>
-
-`AWS EC2` · `S3` · `IAM` · `VPC` · `Elastic Load Balancer` · `EBS` · `Elastic Beanstalk`
-
-`Git` · `GitHub` · `Docker` · `GitHub Actions` · `Maven` · `Postman` · `ApiDog`
-
----
-
-# 🤖 Coding in the AI Era
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
-
-</div>
-
-I'm **not an AI/ML engineer**.
-
-I'm a software developer who uses **AI-assisted development** as part of my workflow.
-
-The way I see it:
+### My workflow
 
 ```text
-Understand the problem
-        ↓
-Think about the solution
-        ↓
-Use AI when it helps
-        ↓
-Read the generated code
-        ↓
-Question it
-        ↓
-Modify / simplify / debug
-        ↓
+Understand
+    ↓
+Think
+    ↓
+Ask AI when useful
+    ↓
+Read
+    ↓
+Question
+    ↓
+Modify
+    ↓
 Test
-        ↓
+    ↓
 Ship
 ```
 
-I use AI assistance for things like:
+**The generated code isn't the finish line.**
 
-- exploring unfamiliar concepts
-- getting a starting point
-- debugging
-- understanding APIs and frameworks
-- refactoring
-- exploring alternative implementations
-- reducing repetitive coding
-- learning new technologies faster
+Understanding what I ship is.
 
-The important part:
+</td>
+</tr>
+</table>
 
-> **AI can help me write code. It doesn't replace understanding the code.**
+<br>
 
----
-
-# ☁️ From Localhost → Cloud
-
-I don't want my projects to live forever on:
-
-```text
-localhost:8080
-```
-
-I've worked with AWS services including:
-
-`EC2` · `S3` · `IAM` · `VPC` · `Elastic Load Balancer` · `EBS` · `Elastic Beanstalk`
-
-My favourite development moment is basically:
-
-```text
-"It works on my machine."
-          ↓
-       Build it
-          ↓
-       Deploy it
-          ↓
-       Something breaks
-          ↓
-       Debug it
-          ↓
-     "Okay, NOW it works."
-```
-
----
-
-# 🌐 Backend First. Frontend When Needed.
-
-I'm primarily a **backend developer**.
-
-But backend doesn't exist in isolation.
-
-I also work with Angular and understand how frontend applications consume backend services.
-
-```text
-                    ME
-                     │
-          ┌──────────┴──────────┐
-          │                     │
-       BACKEND               FRONTEND
-          │                     │
-   Java / Spring Boot        Angular
-          │                     │
-          └──────────┬──────────┘
-                     │
-                  REST API
-                     │
-                  Database
-```
-
-I don't need to call myself a full-stack developer to understand how the other side works.
-
----
-
-# 🎓 Education
-
-### Bachelor in Technology — Computer Science & Engineering
-
-**Dr. A. P. J. Abdul Kalam Technical University**  
-`2022 – 2026` · **CGPA: 8.34**
-
-### Class XII — CBSE
-
-**Oxford Green Public School**  
-`2020 – 2021` · **86%**
-
----
-
-# 🌱 Open Source
-
-## GirlScript Summer of Code 2025
-
-Selected as an **Open Source Contributor** and worked with collaborative Git/GitHub workflows.
-
-```text
-Issue
-  ↓
-Understand
-  ↓
-Code
-  ↓
-Test
-  ↓
-Pull Request
-  ↓
-Review
-  ↓
-Merge
-```
-
----
-
-# 🏆 Little Wins
+# 🛠️ My Stack
 
 <div align="center">
 
-### 💻 400+
-**DSA Problems Solved**
+### BACKEND
 
-### 🥈 2nd
-**College Code-a-thon**
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven"/>
 
-### 🌎 GSSoC 2025
-**Open Source Contributor**
+`Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `REST APIs`
 
-### 👩🏻‍💻 3-Member Team
-**Code-a-thon Team Lead**
+<br><br>
+
+### DATABASE
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
+`MySQL` · `PostgreSQL` · `MongoDB`
+
+<br><br>
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css"/>
+
+`Angular` · `React` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
+
+<br><br>
+
+### CLOUD + TOOLS
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions"/>
+
+`EC2` · `S3` · `IAM` · `VPC` · `ELB` · `EBS` · `Elastic Beanstalk`  
+`Docker` · `Git` · `GitHub` · `GitHub Actions` · `Maven` · `Postman` · `ApiDog`
 
 </div>
 
-I also served as an **event anchor and coordinator** for HackIndia and college technical events.
+<br>
 
----
+# ☁️ From `localhost` → Cloud
 
-# 📚 Currently Leveling Up
+<table>
+<tr>
+<td width="45%" valign="top">
 
-| Area | Focus |
-|:---:|:---|
-| ☕ | **Java & Spring Boot** |
-| 🧩 | **Backend Architecture** |
-| 🧠 | **DSA & Problem Solving** |
-| 🗄️ | **SQL & Database Design** |
-| ☁️ | **AWS & Deployment** |
-| 🌐 | **Angular + API Integration** |
-| 🏗️ | **Microservices & System Design** |
-| 🤖 | **AI-assisted Development** |
+### AWS
 
----
+Hands-on experience with:
 
-# 📊 GitHub, but make it numbers
+`EC2`  
+`S3`  
+`IAM`  
+`VPC`  
+`Elastic Load Balancer`  
+`EBS`  
+`Elastic Beanstalk`
+
+</td>
+
+<td width="55%" valign="top">
+
+```text
+"It works on my machine."
+              ↓
+           BUILD
+              ↓
+           DEPLOY
+              ↓
+       Something breaks
+              ↓
+           DEBUG
+              ↓
+    "Okay, NOW it works."
+```
+
+### `localhost:8080` isn't the destination.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+# 🌐 Backend First. Frontend When Needed.
+
+<div align="center">
+
+```text
+                         ME
+                          │
+             ┌────────────┴────────────┐
+             │                         │
+          BACKEND                   FRONTEND
+             │                         │
+     Java / Spring Boot             Angular
+             │                         │
+             └────────────┬────────────┘
+                          │
+                       REST API
+                          │
+                       DATABASE
+```
+
+</div>
+
+I don't position myself as a full-stack developer.
+
+**Backend is my primary focus.**
+
+But understanding how Angular consumes APIs makes me a better backend developer too.
+
+<br>
+
+# 🎓 Education
+
+<table>
+<tr>
+<td width="70%">
+
+### Bachelor in Technology — Computer Science & Engineering
+
+**Dr. A. P. J. Abdul Kalam Technical University**
+
+`2022 – 2026`
+
+</td>
+
+<td align="center">
+
+### 8.34 / 10
+
+**CGPA**
+
+</td>
+</tr>
+
+<tr>
+<td width="70%">
+
+### Class XII — CBSE
+
+**Oxford Green Public School**
+
+`2020 – 2021`
+
+</td>
+
+<td align="center">
+
+### 86%
+
+**Percentage**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+# 🌱 Open Source + Leadership
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌎 GirlScript Summer of Code 2025
+
+Selected as an **Open Source Contributor**.
+
+Worked with collaborative Git/GitHub workflows and open-source development.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏆 College Code-a-thon
+
+🥈 **2nd Place**
+
+Led a **3-member team** during a 24-hour college-level Code-a-thon.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎤 HackIndia
+
+Served as an **event anchor and coordinator** for HackIndia and college technical events.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 Competitive Programming
+
+**CodeChef — 2★**
+
+**LeetCode — 400+ DSA problems**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+# 🚧 Currently Leveling Up
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">☕<br><b>Java + Spring Boot</b></td>
+<td align="center">🧠<br><b>DSA</b></td>
+<td align="center">🏗️<br><b>Backend Architecture</b></td>
+<td align="center">🗄️<br><b>SQL</b></td>
+</tr>
+
+<tr>
+<td align="center">☁️<br><b>AWS</b></td>
+<td align="center">🌐<br><b>Angular</b></td>
+<td align="center">🏢<br><b>System Design</b></td>
+<td align="center">🤖<br><b>AI-assisted Dev</b></td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -411,7 +580,7 @@ I also served as an **event anchor and coordinator** for HackIndia and college t
 
 </div>
 
----
+<br>
 
 # 🐍 Apparently I Feed This Snake Too
 
@@ -421,9 +590,9 @@ I also served as an **event anchor and coordinator** for HackIndia and college t
 
 </div>
 
----
+<br>
 
-# 🔗 Find Me Around the Internet
+# 🔗 Find Me
 
 <div align="center">
 
@@ -436,7 +605,7 @@ I also served as an **event anchor and coordinator** for HackIndia and college t
 </a>
 
 <a href="https://codeforces.com/profile/nikita_131203">
-<img src="https://img.shields.io/badge/Codeforces-2★-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-2%E2%98%85-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/nikitakumaribqx8e/">
@@ -445,24 +614,24 @@ I also served as an **event anchor and coordinator** for HackIndia and college t
 
 </div>
 
----
+<br><br>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280"/>
 
 ### `eat → code → debug → learn → ship → repeat`
 
 <br>
 
-**Thanks for stopping by! 👋**
+**Thanks for stopping by. 👋**
 
 <br>
 
-*Currently turning curiosity, caffeine and questionable debugging decisions into software.*
+*Building things, breaking things, learning why they broke.*
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0B1120&height=130&section=footer" width="100%"/>
 
 </div>
